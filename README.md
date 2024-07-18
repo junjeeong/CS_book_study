@@ -21,11 +21,11 @@
 
 <table>
  <tr>
-    <td align="center"><a href="https://github.com/junjeeong" width="130px;" alt="정준영"></a></td>
-    <td align="center"><a href="https://github.com/mungyun" width="130px"alt="박문균"></a></td>
-    <td align="center"><a href="https://github.com/venise5224" width="130px;" alt="전상민"></a></td>
-   <td align="center"><a href="https://github.com/hyemeeny" width="130px;" alt="지혜민"></a></td>
-    <td align="center"><a href="https://github.com/hongggyelim" width="130px;" alt="홍예림"></a></td>
+    <td align="center"><a href="https://github.com/junjeeong" target="_blank"><img src="https://avatars.githubusercontent.com/u/81373171?v=4" width="130px;" alt="정준영"></a></td>
+    <td align="center"><a href="https://github.com/mungyun" target="_blank"> <img src="https://avatars.githubusercontent.com/u/126762196?v=4" width="130px"alt="박문균"></a></td>
+    <td align="center"><a href="https://github.com/venise5224" target="_blank"><img src="https://avatars.githubusercontent.com/u/174448906?v=4" width="130px;" alt="전상민"></a></td>
+   <td align="center"><a href="https://github.com/hyemeeny" target="_blank"> <img src="https://avatars.githubusercontent.com/u/144791802?v=4" width="130px;" alt="지혜민"></a></td>
+    <td align="center"><a href="https://github.com/hongggyelim" target="_blank"> <img src="https://avatars.githubusercontent.com/u/167871589?v=4" width="130px;" alt="홍예림"></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/junjeeong"><b>정준영</b></a></td>
@@ -37,7 +37,7 @@
 </table>
 
 ## 🏃🏻‍♂️ 활동 기록
-<a href="#">Go 사진</a></br>
+<a href="https://github.com/junjeeong/CS_book_study/wiki">Go 사진</a></br>
 
 ## ‼️ 참고사항
 
