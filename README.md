@@ -21,18 +21,18 @@
 
 <table>
  <tr>
-    <td align="center"><a href="#" width="130px;" alt="정준영"></a></td>
-    <td align="center"><a href="#" width="130px"alt="박문균"></a></td>
-    <td align="center"><a href="#" width="130px;" alt="전상민"></a></td>
-   <td align="center"><a href="#" width="130px;" alt="지혜민"></a></td>
-    <td align="center"><a href="#" width="130px;" alt="홍예림"></a></td>
+    <td align="center"><a href="https://github.com/junjeeong" width="130px;" alt="정준영"></a></td>
+    <td align="center"><a href="https://github.com/mungyun" width="130px"alt="박문균"></a></td>
+    <td align="center"><a href="https://github.com/venise5224" width="130px;" alt="전상민"></a></td>
+   <td align="center"><a href="https://github.com/hyemeeny" width="130px;" alt="지혜민"></a></td>
+    <td align="center"><a href="https://github.com/hongggyelim" width="130px;" alt="홍예림"></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="#"><b>정준영</b></a></td>
-    <td align="center"><a href="#"><b>박문균</b></a></td>
-    <td align="center"><a href="#"><b>전상민</b></a></td>
-    <td align="center"><a href="#"><b>지혜민</b></a></td>
-    <td align="center"><a href="#"><b>홍예림</b></a></td>
+    <td align="center"><a href="https://github.com/junjeeong"><b>정준영</b></a></td>
+    <td align="center"><a href="https://github.com/mungyun"><b>박문균</b></a></td>
+    <td align="center"><a href="https://github.com/venise5224"><b>전상민</b></a></td>
+    <td align="center"><a href="https://github.com/hyemeeny"><b>지혜민</b></a></td>
+    <td align="center"><a href="https://github.com/hongggyelim"><b>홍예림</b></a></td>
   </tr>
 </table>
 
