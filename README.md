@@ -1,4 +1,4 @@
-# 📚 " 면접을 위한 CS 전공지식 노트" 북 스터디
+# 📚 " 면접을 위한 CS 전공지식 노트" 북 스터디[완료]
 <image src="https://books.google.co.kr/books/publisher/content?id=x6puEAAAQBAJ&hl=ko&pg=PA1&img=1&zoom=3&bul=1&sig=ACfU3U1X1X3-LZ7VmiAPVI3PIy4hdF8SqA&w=1280" width="800px" height="800px">
 
 ## 📌 스터디 목표
